@@ -1,5 +1,3 @@
-"""Core audio management classes."""
-
 import asyncio
 import contextlib
 import logging
